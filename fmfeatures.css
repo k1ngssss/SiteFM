@@ -1,0 +1,59 @@
+button {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    position: absolute;
+    transform: translate(1000%, -1120%);
+    top: 80%;
+    left: 46%;
+    padding: 20px 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+h1 {color: white;
+    font-size: 40px;
+    margin: 25px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 20px;
+
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 85px;
+    position: absolute;
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 540px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+h5 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    margin-left: 1050px;
+    margin-top: 30px;
+}
+
+h6 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    margin-left: 1525px;
+    margin-top: 30px;
+}
